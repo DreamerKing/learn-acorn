@@ -1,0 +1,10 @@
+{
+  "name": "learn-acorn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "wangxianzhao <wangxianzhao@mokuai.com>",
+  "license": "MIT",
+  "dependencies": {
+    "acorn": "^8.2.2"
+  }
+}
